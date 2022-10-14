@@ -1,4 +1,4 @@
-import { ServicioCifrado} from '../Servicios/ServicioCifrado'
+import { ServicioCifrado} from '../src/Servicios/ServicioCifrado'
 var CryptoJS = require("crypto-js");
 
 var mensaje = "Hola Mundo";
